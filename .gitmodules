@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cati"]
-	path = cati
-	url = https://github.com/adrientaudiere/cati
-	shallow = true
-	subdir = pkg/cati
-	registered = true
