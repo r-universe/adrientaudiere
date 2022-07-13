@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "cati",
+    "oncran": true
+  }
+]
