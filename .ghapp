@@ -1,9 +1,10 @@
 {
   "id": 44072558,
   "created_at": "2023-11-16T06:04:43.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["cati", "MiscMetabar"]
 }
