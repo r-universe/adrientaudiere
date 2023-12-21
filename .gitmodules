@@ -1,8 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/adrientaudiere/adrientaudiere.r-universe.dev
 	branch = HEAD
+[submodule "MiscMetabar"]
+	path = MiscMetabar
+	url = https://github.com/adrientaudiere/miscmetabar
 [submodule "cati"]
 	path = cati
 	url = https://github.com/adrientaudiere/cati
-	subdir = pkg/cati
