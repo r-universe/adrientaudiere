@@ -2,29 +2,9 @@
 	path = .registry
 	url = https://github.com/adrientaudiere/adrientaudiere.r-universe.dev
 	branch = HEAD
-[submodule "FUNGuildR"]
-	path = FUNGuildR
-	url = https://github.com/brendanf/FUNGuildR
-	registered = false
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/adrientaudiere/miscmetabar
 [submodule "cati"]
 	path = cati
 	url = https://github.com/adrientaudiere/cati
-[submodule "gghalves"]
-	path = gghalves
-	url = https://github.com/erocoar/gghalves
-	registered = false
-[submodule "lulu"]
-	path = lulu
-	url = https://github.com/adrientaudiere/lulu
-	registered = false
-[submodule "microViz"]
-	path = microViz
-	url = https://github.com/david-barnett/microViz
-	registered = false
-[submodule "speedyseq"]
-	path = speedyseq
-	url = https://github.com/mikemc/speedyseq
-	registered = false
