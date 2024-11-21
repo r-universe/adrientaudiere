@@ -8,3 +8,6 @@
 [submodule "cati"]
 	path = cati
 	url = https://github.com/adrientaudiere/cati
+[submodule "greenAlgoR"]
+	path = greenAlgoR
+	url = https://github.com/adrientaudiere/greenAlgoR
