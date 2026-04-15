@@ -8,6 +8,21 @@
 [submodule "cati"]
 	path = cati
 	url = https://github.com/adrientaudiere/cati
+[submodule "comparpq"]
+	path = comparpq
+	url = https://github.com/adrientaudiere/comparpq
+[submodule "dbpq"]
+	path = dbpq
+	url = https://github.com/adrientaudiere/dbpq
 [submodule "greenAlgoR"]
 	path = greenAlgoR
 	url = https://github.com/adrientaudiere/greenAlgoR
+[submodule "pqverse"]
+	path = pqverse
+	url = https://github.com/adrientaudiere/pqverse
+[submodule "taxinfo"]
+	path = taxinfo
+	url = https://github.com/adrientaudiere/taxinfo
+[submodule "tidypq"]
+	path = tidypq
+	url = https://github.com/adrientaudiere/tidypq
